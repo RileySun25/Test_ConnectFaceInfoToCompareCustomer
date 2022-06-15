@@ -1,0 +1,11 @@
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\bin\Debug\NLog.config
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\bin\Debug\ConsoleApp1_0613TEST.exe.config
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\bin\Debug\ConsoleApp1_0613TEST.exe
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\bin\Debug\ConsoleApp1_0613TEST.pdb
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\bin\Debug\NLog.dll
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\bin\Debug\NLog.xml
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\obj\Debug\ConsoleApp1_0613TEST.csproj.AssemblyReference.cache
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\obj\Debug\ConsoleApp1_0613TEST.csproj.CoreCompileInputs.cache
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\obj\Debug\ConsoleApp1_0613TEST.csproj.CopyComplete
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\obj\Debug\ConsoleApp1_0613TEST.exe
+D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\obj\Debug\ConsoleApp1_0613TEST.pdb

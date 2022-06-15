@@ -1,0 +1,227 @@
+[2022-06-14 09:52:07.2604]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:47) - 
+[2022-06-14 10:29:17.0511]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:47) - 
+[2022-06-14 10:30:16.5230]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:47) - 
+[2022-06-14 10:40:27.0939]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 10:40:27.1299]--INFO--[1]--[2022/6/14 上午 10:40:27時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 10:44:01.3282]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 10:44:01.3662]--INFO--[1]--[2022/6/14 上午 10:44:01時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 10:44:42.8497]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 10:44:42.8867]--INFO--[1]--[2022/6/14 上午 10:44:42時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 10:46:53.9445]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 10:46:53.9795]--INFO--[1]--[2022/6/14 上午 10:46:53時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 10:49:05.0624]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 10:49:05.0994]--INFO--[1]--[2022/6/14 上午 10:49:04時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 10:53:46.8921]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 10:53:46.9301]--INFO--[1]--[2022/6/14 上午 10:53:46時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 10:54:36.5533]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 10:54:36.5943]--INFO--[1]--[2022/6/14 上午 10:54:36時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 10:56:18.2805]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 10:56:18.3205]--INFO--[1]--[2022/6/14 上午 10:56:18時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:17:59.2225]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:17:59.2565]--INFO--[1]--[2022/6/14 上午 11:17:59時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:19:01.7722]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:19:01.8072]--INFO--[1]--[2022/6/14 上午 11:19:01時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:20:21.8719]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:20:21.9479]--INFO--[1]--[2022/6/14 上午 11:20:21時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:21:12.9392]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:21:12.9772]--INFO--[1]--[2022/6/14 上午 11:21:12時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:22:32.0551]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:22:32.0911]--INFO--[1]--[2022/6/14 上午 11:22:31時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:22:53.7710]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:22:53.8060]--INFO--[1]--[2022/6/14 上午 11:22:53時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:23:25.4805]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:23:25.5155]--INFO--[1]--[2022/6/14 上午 11:23:25時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:23:47.5232]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:23:47.5622]--INFO--[1]--[2022/6/14 上午 11:23:47時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:26:11.3146]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:26:11.3496]--INFO--[1]--[2022/6/14 上午 11:26:11時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:26:27.9670]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:26:28.0040]--INFO--[1]--[2022/6/14 上午 11:26:27時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:27:35.0579]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:27:35.0939]--INFO--[1]--[2022/6/14 上午 11:27:34時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:28:30.9766]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:28:31.0126]--INFO--[1]--[2022/6/14 上午 11:28:30時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:28:56.4578]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:28:56.4968]--INFO--[1]--[2022/6/14 上午 11:28:56時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:29:54.7557]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:29:54.7937]--INFO--[1]--[2022/6/14 上午 11:29:54時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:30:48.3759]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:30:48.4129]--INFO--[1]--[2022/6/14 上午 11:30:48時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:33:27.2580]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:33:27.3000]--INFO--[1]--[2022/6/14 上午 11:33:27時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:33:54.5081]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:33:54.5481]--INFO--[1]--[2022/6/14 上午 11:33:54時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:34:15.4420]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:34:15.4800]--INFO--[1]--[2022/6/14 上午 11:34:15時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:34:49.3097]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:34:49.3477]--INFO--[1]--[2022/6/14 上午 11:34:49時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:35:18.4665]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:35:18.5055]--INFO--[1]--[2022/6/14 上午 11:35:18時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:36:27.2916]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:36:27.3276]--INFO--[1]--[2022/6/14 上午 11:36:27時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:37:55.6258]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:37:55.6598]--INFO--[1]--[2022/6/14 上午 11:37:55時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:39:58.6204]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:39:58.6554]--INFO--[1]--[2022/6/14 上午 11:39:58時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:41:05.9532]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:41:05.9882]--INFO--[1]--[2022/6/14 上午 11:41:05時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 11:44:01.8000]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:48) - 
+[2022-06-14 11:44:01.8380]--INFO--[1]--[2022/6/14 上午 11:44:01時間為上午，執行檢查一次，補第一次的體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:60) - 
+[2022-06-14 12:02:35.7441]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:03:33.2805]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:03:55.5295]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:04:32.0974]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:04:45.7176]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:05:12.6973]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:05:20.6735]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:07:19.5953]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:07:32.5321]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:10:55.8042]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:17:54.6055]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:18:52.4408]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:20:48.1269]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:21:26.7417]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:21:53.3006]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:22:07.6695]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:23:29.4529]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:23:34.5828]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 12:24:44.2604]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:18:24.6632]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:19:18.9620]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:20:24.4022]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:20:47.3051]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:21:14.8958]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:21:36.8922]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:23:25.9834]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:27:16.1454]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:30:41.2951]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:31:36.5411]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:33:05.9732]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:33:57.1972]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:34:44.7651]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:35:06.8412]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:38:34.0082]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:39:08.4483]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:39:59.8542]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:40:38.2300]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:41:33.1689]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:43:02.5380]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:43:38.3263]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:46:40.4094]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:47:08.3485]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:47:41.9611]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:49:05.0887]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:50:28.1899]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:51:15.2486]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:51:46.1686]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:52:10.0612]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:52:17.9767]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:57:19.9418]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 13:59:57.2016]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 14:05:03.6153]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 14:05:32.5480]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 14:06:49.4309]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 14:22:04.0124]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 14:23:12.2329]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 14:24:39.5237]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 14:25:10.2312]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 14:30:48.9896]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 14:31:48.1233]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 15:04:23.8651]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:50) - 
+[2022-06-14 15:56:48.3788]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:06:15.2206]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:48:23.8545]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:50:01.1562]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:51:02.3361]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:51:46.2738]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:53:47.1572]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:54:04.5658]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:54:14.3596]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:55:05.4193]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:55:29.0521]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:55:29.0961]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:263) - 
+[2022-06-14 16:55:54.5558]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:55:54.6078]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:263) - 
+[2022-06-14 16:57:04.6047]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:57:04.6567]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:264) - 
+[2022-06-14 16:57:30.4190]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:57:30.4630]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:264) - 
+[2022-06-14 16:58:28.0648]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:58:28.1108]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:264) - 
+[2022-06-14 16:59:56.6725]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 16:59:56.7195]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:264) - 
+[2022-06-14 17:02:20.1612]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:02:20.2072]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:264) - 
+[2022-06-14 17:06:55.6530]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:06:55.7060]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:264) - 
+[2022-06-14 17:07:27.3791]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:07:27.4321]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:264) - 
+[2022-06-14 17:07:33.3548]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:10:23.1743]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:11:40.8281]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:13:04.0298]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:13:52.8680]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:13:52.9180]--INFO--[1]--[皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:266) - 
+[2022-06-14 17:16:50.7193]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:16:50.8433]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:263) - 
+[2022-06-14 17:16:50.8433]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:263) - 
+[2022-06-14 17:22:14.1892]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:22:14.2242]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:145) - 
+[2022-06-14 17:22:14.2362]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:261) - 
+[2022-06-14 17:22:14.2362]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:261) - 
+[2022-06-14 17:22:43.5116]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:22:43.5446]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:145) - 
+[2022-06-14 17:22:43.5446]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:261) - 
+[2022-06-14 17:22:43.5446]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:261) - 
+[2022-06-14 17:28:56.3097]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:52) - 
+[2022-06-14 17:28:56.3467]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:145) - 
+[2022-06-14 17:28:56.3587]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:261) - 
+[2022-06-14 17:28:56.3587]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:261) - 
+[2022-06-14 17:37:10.9637]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:37:11.0037]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:141) - 
+[2022-06-14 17:37:11.0037]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:257) - 
+[2022-06-14 17:37:11.0037]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:257) - 
+[2022-06-14 17:37:32.3952]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:37:32.4312]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:141) - 
+[2022-06-14 17:37:32.4422]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:256) - 
+[2022-06-14 17:37:32.4422]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:256) - 
+[2022-06-14 17:38:23.4416]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:38:23.4806]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:141) - 
+[2022-06-14 17:38:23.4926]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:253) - 
+[2022-06-14 17:38:23.4926]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:253) - 
+[2022-06-14 17:38:42.5294]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:38:42.5704]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:140) - 
+[2022-06-14 17:38:42.5824]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:252) - 
+[2022-06-14 17:38:42.5824]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:252) - 
+[2022-06-14 17:38:56.7546]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:38:56.7946]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:139) - 
+[2022-06-14 17:38:56.8046]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:251) - 
+[2022-06-14 17:38:56.8046]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:251) - 
+[2022-06-14 17:39:59.5944]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:39:59.6314]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:139) - 
+[2022-06-14 17:39:59.6424]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:250) - 
+[2022-06-14 17:39:59.6424]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:250) - 
+[2022-06-14 17:40:32.6502]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:40:32.6832]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:139) - 
+[2022-06-14 17:40:32.6922]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 17:40:32.6922]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 17:48:41.4540]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:48:41.4870]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:139) - 
+[2022-06-14 17:48:41.4990]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 17:48:41.4990]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 17:48:46.8741]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:48:46.9091]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:139) - 
+[2022-06-14 17:48:46.9181]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 17:48:46.9181]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 17:52:16.0710]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:52:16.1050]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:139) - 
+[2022-06-14 17:52:16.1180]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 17:52:16.1180]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 17:52:42.0145]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 17:52:42.0535]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:139) - 
+[2022-06-14 17:52:42.0535]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 17:52:42.0535]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 18:04:36.9306]--INFO--[1]--[門將DB連線成功!TEST連線成功!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:49) - 
+[2022-06-14 18:04:36.9636]--INFO--[1]--[時間為中午十二點之後，檢查兩次體溫] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:139) - 
+[2022-06-14 18:04:36.9636]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
+[2022-06-14 18:04:36.9636]--INFO--[1]--[目前對方的資料表皆有temp02的體溫!] -- ConsoleApp1_0613TEST.Program.Main(D:\Riley程式\0613測試用\ConsoleApp1_0613TEST\ConsoleApp1_0613TEST\Program.cs:249) - 
